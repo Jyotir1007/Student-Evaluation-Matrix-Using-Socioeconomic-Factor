@@ -1,4 +1,3 @@
-# Student-Evaluation-Matrix-Using-Socioeconomic-Factor
 # 📊 Academic Performance Prediction Using Machine Learning
 
 This project aims to predict student academic performance by classifying them into performance quartiles (Q1 to Q4) using various machine learning models. The goal is not only to compare model performance but also to interpret model decisions using explainability tools like SHAP and LIME.
